@@ -1,0 +1,20 @@
+h1{
+    text-decoration:double underline;
+    text-decoration-color: blue;
+}
+h2{
+     
+     text-decoration: wavy underline;
+     text-decoration-color: turquoise;
+}
+p{
+    text-decoration: purple overline;
+}
+a{
+    
+   
+    
+     text-decoration: wavy underline;
+     text-decoration-color: black;
+
+}
