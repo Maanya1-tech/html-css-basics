@@ -5,3 +5,6 @@ input[type="text"]{
 input[type="password"]{
     color:green;
 }
+div[id="myID"] p{
+    color:green;
+}
