@@ -1,0 +1,10 @@
+h1::first-letter{
+    color:aqua;
+    font-family : cursive;
+}
+p::first-line{
+    color:blueviolet;
+}
+p::selection{
+    background-color: yellowgreen;
+}
