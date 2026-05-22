@@ -6,6 +6,6 @@ p::first-line{
     color:rgb(211, 226, 43);
 }
 p::selection{
-    background-color: yellowgreen;
-    color:rgb(0, 170, 255);
+    background-color: rgb(195, 50, 205);
+    color:rgb(0, 255, 76);
 }
