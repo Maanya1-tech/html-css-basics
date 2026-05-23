@@ -4,7 +4,7 @@ button:hover{
     color:rgb(255, 255, 255)
 }
 h3:hover{
-    text-decoration: underline;
+    text-decoration: overline;
 }
 button:active{
     background-color: purple;
