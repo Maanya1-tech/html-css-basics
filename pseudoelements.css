@@ -3,7 +3,7 @@ h1::first-letter{
     font-family : Arial, Helvetica, sans-serif;
 }
 p::first-line{
-    color:rgb(211, 226, 43);
+    color:rgb(43, 171, 226);
 }
 p::selection{
     background-color: rgb(195, 50, 205);
