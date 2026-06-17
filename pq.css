@@ -7,3 +7,12 @@ h1{
 .myclass{
     color: red;
 }
+div p{
+    background-color:black;
+}
+.para{
+    background-color:blue;
+}
+p{
+    background-color:green;
+}
