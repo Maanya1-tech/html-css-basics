@@ -16,3 +16,13 @@ div p{
 p{
     background-color:green;
 }
+div.greetDiv .greet{
+    color:green;
+
+}
+.greetDiv p.greet{
+    color:blue;
+}
+.greetDiv .greet{
+    color:red;
+}
