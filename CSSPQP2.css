@@ -17,3 +17,16 @@ button{
     background-color:purple;
     color:azure;
 }
+button:hover{
+    background-color:yellow;
+    color:blue
+}
+p:nth-of-type(2n+1){
+    color:yellow;
+}
+h1::first-letter{
+    color:green;
+}
+button:active{
+    color:darkgreen;
+}
