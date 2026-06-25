@@ -13,3 +13,6 @@ input{
 button{
     background-color:inherit
 }
+button:hover{
+    background-color:gray;
+}
