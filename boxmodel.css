@@ -11,7 +11,7 @@ h1{
     /*:2px;
     border-style:dashed;
     border-color:indianred;*/
-    border: 2px dashed indianred;
+    border: 2px dashed lightcoral;
 }
 button{
     height:50px;
