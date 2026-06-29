@@ -6,6 +6,8 @@ div{
    /* border-style:groove;
     border-color:purple;*/
     border: 5px solid yellowgreen;
+    border-left-color:blue;
+    border-left-style:dashed;
 }
 h1{
     /*:2px;
