@@ -5,9 +5,10 @@ div{
     border-width:5px;
    /* border-style:groove;
     border-color:purple;*/
-    border: 5px solid yellowgreen;
+    /*border: 5px solid yellowgreen;
     border-left-color:blue;
-    border-left-style:dashed;
+    border-left-style:dashed;*/
+    border-top: 5px dashed blue;
 }
 h1{
     /*:2px;
