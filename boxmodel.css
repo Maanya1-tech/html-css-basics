@@ -7,6 +7,8 @@ div{
     border-color:purple;*/
     border: 5px solid yellowgreen;
     border-top-right-radius: 15px;
+    padding-top:50px;
+    padding-left:100px;
 }
 h1{
     /*:2px;
