@@ -17,13 +17,14 @@ h1{
     border: 2px dashed lightcoral;
 }
 button{
-    height:50px;
-    width:100px;
+    height:100px;
+    width:500px;
     /*border-style:solid;
     border-color:blue;
     background-color:lightblue;
     border-width:3px;*/
     border: 3px solid black;
-    border-radius:15px;
+    
+    padding: 20px 40px 20px 40px;
 
 }
