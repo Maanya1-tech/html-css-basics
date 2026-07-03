@@ -1,8 +1,4 @@
-h2,h1{
-    display:inline;
-    background-color:pink;
-}
 span{
-    display:block;
-    background-color:yellow;
+    background-color:cornflowerblue;
+    border:2px solid black;
 }
