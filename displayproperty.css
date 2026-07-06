@@ -6,3 +6,6 @@ div{
     margin:5px;
     display:inline-block;
 }
+#third{
+    display:none;
+}
