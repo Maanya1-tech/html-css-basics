@@ -2,3 +2,13 @@ h1{
     border: 2px solid black;
     width:33.33%;
 }
+#outer{
+     height:400px;
+     width:400px;
+    background-color:pink;
+}
+#inner{
+    height:100px;
+    width:100px;
+    background-color:blue;
+}
