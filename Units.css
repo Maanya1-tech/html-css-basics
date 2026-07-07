@@ -6,9 +6,11 @@ h1{
      height:400px;
      width:400px;
     background-color:pink;
+    margin:50px;
 }
 #inner{
     height:100px;
     width:100px;
     background-color:blue;
+    margin-left:10%;
 }
