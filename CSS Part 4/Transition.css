@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,50,50, 1);
+    transition-duration:1s;
+    transition-delay: 0.5s;
+    /*RANSITION PROPERTY: timing
+    4 types
+    Linear: same speed from start to end
+    Ease: slow start, fast middle, slow end
+    Step: sudden change from start to end
+    Cubic-bezier: custom speed from start to end
+    */
+}
+div:hover{
+    background-color: rgba(0, 255, 0, 1);
+    border-radius: 50px;
+}
