@@ -7,7 +7,7 @@ div{
     text-align:center;
     background-color:#7aa874;
     border:2px solid black;
-    margin:10px;
+    margin:10px auto;
 }
 div:nth-of-type(2n)
 {
@@ -18,6 +18,15 @@ div:nth-of-type(3n)
     background-color:#ebb02d;
 }
 /* Transform */
+/* Rotate */
 #one{
     transform:rotate(-45deg);
+}
+/* Scale */
+#two{
+    transform:scale(0.5,2);
+}
+/* Translate */
+#three{
+    transform:translate(-100px);
 }
