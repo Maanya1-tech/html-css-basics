@@ -1,9 +1,27 @@
-div{
+#one{
     width:400px;
     height:200px;
     background-color:lightgreen;
     margin: 10px auto;
     background-image:url("bimage.jpg");
     background-size:auto;
+    color:purple;
+}
+#two{
+    width:400px;
+    height:200px;
+    background-color:lightgreen;
+    margin: 10px auto;
+    background-image:url("image.jpg");
+    background-size:cover;
+    color:purple;
+}
+#three{
+    width:400px;
+    height:200px;
+    background-color:lightgreen;
+    margin: 10px auto;
+    background-image:url("photo.jpg");
+    background-size:contain;
     color:purple;
 }
