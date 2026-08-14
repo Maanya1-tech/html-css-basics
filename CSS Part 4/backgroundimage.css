@@ -1,0 +1,9 @@
+div{
+    width:400px;
+    height:200px;
+    background-color:lightgreen;
+    margin: 10px auto;
+    background-image:url("bimage.jpg");
+    background-size:auto;
+    color:purple;
+}
