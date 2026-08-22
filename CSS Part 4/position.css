@@ -28,6 +28,6 @@ div{
 #fixed{
     background-color:purple;
     position:fixed;
-    top:100px;
+    top:200px;
     left:100px;
 }
