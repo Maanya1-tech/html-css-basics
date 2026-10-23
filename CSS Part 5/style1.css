@@ -26,7 +26,7 @@ border: 2px solid lightseagreen;
 border-radius: 10px;
 display: flex;
 justify-content: flex-start;
-align-content: center;
+align-content:right;
 }
 .option {
 height: 50px;
